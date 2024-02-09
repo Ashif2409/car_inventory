@@ -1,0 +1,30 @@
+/* styles.css */
+
+.CarInventoryTable {
+    font-family: Arial, sans-serif;
+  }
+  
+  .CarInventoryTable h1 {
+    margin-bottom: 20px;
+  }
+  
+  .CarInventoryTable table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .CarInventoryTable th,
+  .CarInventoryTable td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .CarInventoryTable th {
+    background-color: #f2f2f2;
+  }
+  
+  .CarInventoryTable tr:hover {
+    background-color: #f2f2f2;
+  }
+  
